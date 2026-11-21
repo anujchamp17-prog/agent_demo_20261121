@@ -1,8 +1,5 @@
 {
-"OPENAI_API_KEY": "gl-U2FsdGVkX1/qhPEpNvcZvrCQtsTM1d1OTMSToQPeymH74Ob2GsDW4l4TPcaYcwg5",
-"OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1",
-  "LANGCHAIN_TRACING_V2": "true",
-  "LANGCHAIN_API_KEY": "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",
-  "LANGCHAIN_PROJECT": "gl_agents"
+"OPENAI_API_BASE" : "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"
+"OPENAI_API_KEY" : "https://api.openai.com/v1"
 }
 
