@@ -1,4 +1,8 @@
 {
-    "OPENAI_API_KEY": "your-api-key",
-    "OPENAI_API_BASE": "your-api-base"
+"OPENAI_API_KEY": "gl-U2FsdGVkX1/qhPEpNvcZvrCQtsTM1d1OTMSToQPeymH74Ob2GsDW4l4TPcaYcwg5",
+"OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1",
+  "LANGCHAIN_TRACING_V2": "true",
+  "LANGCHAIN_API_KEY": "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",
+  "LANGCHAIN_PROJECT": "gl_agents"
 }
+
